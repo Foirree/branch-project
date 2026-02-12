@@ -1,0 +1,21 @@
+h1{
+    color: red;
+}
+h2{
+    color: yellow;
+}
+body{
+    background-color: lime;
+    background-image: url("https://cdn.pixabay.com/photo/2015/04/23/22/00/tree-736885_960_720.jpg");
+}
+
+img{
+    border: 8px dashed black;
+}
+
+#pic1
+{
+    border: 8px solid purple;
+}
+
+
